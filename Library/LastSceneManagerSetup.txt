@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SCENES/Bird_anim.unity
+  isLoaded: 1
+  isActive: 1

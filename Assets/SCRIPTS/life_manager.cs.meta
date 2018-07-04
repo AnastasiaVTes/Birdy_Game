@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 947e00cb4b8b03949a2d3ecf8a973523
+timeCreated: 1527520919
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - lives_meter: {instanceID: 0}
+  - heart_full: {fileID: 21300000, guid: 07c7670e68533b34fa6d7bf5f1791dde, type: 3}
+  - heart_half: {fileID: 21300002, guid: 07c7670e68533b34fa6d7bf5f1791dde, type: 3}
+  - heart_empty: {fileID: 21300004, guid: 07c7670e68533b34fa6d7bf5f1791dde, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
